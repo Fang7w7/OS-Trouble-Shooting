@@ -1,0 +1,1 @@
+ln  -s `<main folder>`  `<location where u want to keep the link>`
