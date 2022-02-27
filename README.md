@@ -1,4 +1,3 @@
-# OS-Trouble-Shooting
+# OS-Suite
 
-This repository is based on the errors i faced and how i resolved those issues
-, It's more like a personal note.
+This repository is based on the problems i faced and how i solved them.
